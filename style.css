@@ -1,0 +1,38 @@
+body {
+  font-size: 18px;
+  font-family: "Outfit", sans-serif;
+  background: hsl(217, 54%, 11%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+p {
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+}
+.dias {
+  color: hsl(215, 51%, 70%);
+  margin-left: 31%;
+}
+.carta {
+  background: hsl(216, 50%, 16%);
+}
+hr {
+  color: hsl(0, 0%, 100%);
+  font-weight: 300;
+}
+.titulo {
+  color: hsl(0, 0%, 100%);
+  font-weight: 600;
+}
+.nombre {
+  color: hsl(0, 0%, 100%);
+  font-weight: 300;
+}
+.cyan {
+  color: hsl(178, 100%, 50%);
+}
